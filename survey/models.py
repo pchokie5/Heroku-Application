@@ -4,7 +4,7 @@ from otree.api import (
 )
 
 
-author = 'Zach Gilbert'
+author = 'Peter Coiley'
 
 doc = """
 Survey Questions for the Experiment
@@ -15,7 +15,7 @@ class Constants(BaseConstants):
     name_in_url = 'survey_two_decoy'
     players_per_group = None
     num_rounds = 1
-
+    
 
 class Subsession(BaseSubsession):
     pass
@@ -32,7 +32,7 @@ class Player(BasePlayer):
         initial = None,
         choices = ['4 dollars, 6 godiva chocolates',
                 '6 dollars, 3 godiva chocolates'],
-        verbose_name = 'Menu 1',
+        verbose_name= '1st Round',
         widget= widgets.RadioSelect()
     )
 
@@ -41,7 +41,7 @@ class Player(BasePlayer):
         choices = ['6 dollars, 3 godiva chocolates',
                    '4 dollars, 6 godiva chocolates',
                '4 dollars and 5 godiva chocolates'],
-        verbose_name= 'Menu 2',
+        verbose_name= '2nd Round',
         widget = widgets.RadioSelect()
     )
     Menu_3 = models.CharField(
@@ -49,7 +49,7 @@ class Player(BasePlayer):
         choices = ['4 dollars, 6 godiva chocolates',
                    '6 dollars, 3 godiva chocolates',
                    '5 dollars, 3 godiva chocolates'],
-        verbose_name = 'Menu 3',
+        verbose_name = '3rd Round',
         widget = widgets.RadioSelect()
 
     )
@@ -58,7 +58,7 @@ class Player(BasePlayer):
         choices = ['4 dollars, 6 godiva chocolates',
                    '0 dollars, 10 godiva chocolates',
                    '6 dollars, 3 godiva chocolates'],
-        verbose_name= 'Menu 4',
+        verbose_name= '4th Round',
         widget = widgets.RadioSelect
     )
     Menu_5 = models.CharField(
@@ -66,7 +66,7 @@ class Player(BasePlayer):
         choices = ['4 dollars, 6 godiva chocolates',
                    '6 dollars, 3 godiva chocolates',
                    '7 dollars, 0 godiva chocolates'],
-        verbose_name= 'Menu 5',
+        verbose_name= '5th Round',
         widget = widgets.RadioSelect
     )
     Menu_6 = models.CharField(
@@ -75,7 +75,7 @@ class Player(BasePlayer):
                    '4 dollars, 5 godiva chocolates',
                    '6 dollars, 3 godiva chocolates',
                    '5 dollars, 3 godiva chocolates'],
-        verbose_name = 'Menu 6',
+        verbose_name = '6th Round',
         widget = widgets.RadioSelect()
     )
     Menu_7 = models.CharField(
@@ -84,7 +84,7 @@ class Player(BasePlayer):
                    '0 dollars, 10 godiva chocolates',
                    '6 dollars, 3 godiva chocolates',
                    '7 dollars, 0 godiva chocolates'],
-        verbose_name = 'Menu 7',
+        verbose_name = '7th Round',
         widget = widgets.RadioSelect()
     )
     Menu_8 = models.CharField(
@@ -92,7 +92,7 @@ class Player(BasePlayer):
         choices= ['4 dollars, 6 godiva chocolates',
                   '6 dollars, 3 godiva chocolates',
                   '4 dollars, 3 godiva chocolates'],
-        verbose_name='Menu 8',
+        verbose_name='8th Round',
         widget = widgets.RadioSelect()
 
     )
