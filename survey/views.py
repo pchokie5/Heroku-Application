@@ -20,7 +20,8 @@ class SecondDecision(Page):
 
 
 class Results(Page):
-    pass
+    def before_next_page(self):
+        self.player.reward_answer = getattr(self.player, 'Menu_{}'.format(self.player.reward_field))
 
 class ThirdDecision(Page):
     form_model = models.Player
@@ -58,5 +59,6 @@ page_sequence = [
     SixthDecision,
     SeventhDecision,
     EighthDecision,
+    Results,
     ThankYou
 ]

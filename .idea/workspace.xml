@@ -2,279 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7fa37df-a159-40b1-a321-9cba70a2b58c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/Procfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/_rooms/econ101.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/_static/global/instructions.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/_static/global/matrix.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/_templates/global/MTurkPreview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/_templates/global/Page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/bargaining/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/bargaining/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/bargaining/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/bargaining/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/bargaining/templates/bargaining/Instructions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/bargaining/templates/bargaining/Introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/bargaining/templates/bargaining/Request.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/bargaining/templates/bargaining/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/bargaining/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/bargaining/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/battle_of_the_sexes/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/battle_of_the_sexes/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/battle_of_the_sexes/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/battle_of_the_sexes/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/battle_of_the_sexes/templates/battle_of_the_sexes/Decide.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/battle_of_the_sexes/templates/battle_of_the_sexes/Instructions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/battle_of_the_sexes/templates/battle_of_the_sexes/Introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/battle_of_the_sexes/templates/battle_of_the_sexes/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/battle_of_the_sexes/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/battle_of_the_sexes/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/bertrand/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/bertrand/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/bertrand/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/bertrand/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/bertrand/templates/bertrand/Decide.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/bertrand/templates/bertrand/Instructions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/bertrand/templates/bertrand/Introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/bertrand/templates/bertrand/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/bertrand/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/bertrand/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/common_value_auction/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/common_value_auction/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/common_value_auction/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/common_value_auction/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/common_value_auction/templates/common_value_auction/Bid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/common_value_auction/templates/common_value_auction/Instructions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/common_value_auction/templates/common_value_auction/Introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/common_value_auction/templates/common_value_auction/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/common_value_auction/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/common_value_auction/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/cournot/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/cournot/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/cournot/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/cournot/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/cournot/templates/cournot/Decide.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/cournot/templates/cournot/Instructions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/cournot/templates/cournot/Introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/cournot/templates/cournot/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/cournot/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/cournot/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/dictator/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/dictator/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/dictator/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/dictator/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/dictator/templates/dictator/Instructions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/dictator/templates/dictator/Introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/dictator/templates/dictator/Offer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/dictator/templates/dictator/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/dictator/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/dictator/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/guess_two_thirds/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/guess_two_thirds/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/guess_two_thirds/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/guess_two_thirds/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/guess_two_thirds/templates/guess_two_thirds/Guess.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/guess_two_thirds/templates/guess_two_thirds/Instructions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/guess_two_thirds/templates/guess_two_thirds/Introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/guess_two_thirds/templates/guess_two_thirds/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/guess_two_thirds/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/guess_two_thirds/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/lemon_market/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/lemon_market/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/lemon_market/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/lemon_market/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/lemon_market/templates/lemon_market/AdminReport.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/lemon_market/templates/lemon_market/FinalResults.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/lemon_market/templates/lemon_market/HighChart.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/lemon_market/templates/lemon_market/Instructions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/lemon_market/templates/lemon_market/Introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/lemon_market/templates/lemon_market/Production.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/lemon_market/templates/lemon_market/Purchase.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/lemon_market/templates/lemon_market/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/lemon_market/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/lemon_market/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/manage.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/matching_pennies/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/matching_pennies/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/matching_pennies/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/matching_pennies/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/matching_pennies/templates/matching_pennies/Choice.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/matching_pennies/templates/matching_pennies/ResultsSummary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/matching_pennies/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/matching_pennies/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/payment_info/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/payment_info/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/payment_info/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/payment_info/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/payment_info/templates/payment_info/PaymentInfo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/payment_info/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/payment_info/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/principal_agent/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/principal_agent/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/principal_agent/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/principal_agent/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/principal_agent/templates/principal_agent/Accept.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/principal_agent/templates/principal_agent/Instructions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/principal_agent/templates/principal_agent/Introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/principal_agent/templates/principal_agent/Offer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/principal_agent/templates/principal_agent/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/principal_agent/templates/principal_agent/WorkEffort.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/principal_agent/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/principal_agent/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/prisoner/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/prisoner/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/prisoner/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/prisoner/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/prisoner/templates/prisoner/Decision.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/prisoner/templates/prisoner/Instructions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/prisoner/templates/prisoner/Introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/prisoner/templates/prisoner/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/prisoner/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/prisoner/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/public_goods/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/public_goods/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/public_goods/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/public_goods/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/public_goods/templates/public_goods/AdminReport.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/public_goods/templates/public_goods/Contribute.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/public_goods/templates/public_goods/Instructions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/public_goods/templates/public_goods/Introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/public_goods/templates/public_goods/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/public_goods/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/public_goods/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/public_goods_simple/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/public_goods_simple/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/public_goods_simple/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/public_goods_simple/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/public_goods_simple/templates/public_goods_simple/Contribute.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/public_goods_simple/templates/public_goods_simple/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/public_goods_simple/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/public_goods_simple/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/quiz/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/quiz/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/quiz/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/quiz/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/quiz/quiz.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/quiz/templates/quiz/Question.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/quiz/templates/quiz/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/quiz/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/quiz/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/real_effort/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/real_effort/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/real_effort/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/real_effort/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/real_effort/static/real_effort/paragraphs/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/real_effort/static/real_effort/paragraphs/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/real_effort/templates/real_effort/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/real_effort/templates/real_effort/Transcribe.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/real_effort/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/real_effort/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/requirements.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/requirements_base.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/requirements_server.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/stackelberg/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/stackelberg/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/stackelberg/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/stackelberg/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/stackelberg/templates/stackelberg/ChoiceOne.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/stackelberg/templates/stackelberg/ChoiceTwo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/stackelberg/templates/stackelberg/Instructions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/stackelberg/templates/stackelberg/Introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/stackelberg/templates/stackelberg/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/stackelberg/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/stackelberg/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/survey/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/survey/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/survey/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/survey/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/survey/templates/survey/CognitiveReflectionTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/survey/templates/survey/Demographics.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/survey/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/survey/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/traveler_dilemma/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/traveler_dilemma/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/traveler_dilemma/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/traveler_dilemma/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/traveler_dilemma/templates/traveler_dilemma/Claim.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/traveler_dilemma/templates/traveler_dilemma/Instructions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/traveler_dilemma/templates/traveler_dilemma/Introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/traveler_dilemma/templates/traveler_dilemma/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/traveler_dilemma/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/traveler_dilemma/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust/templates/trust/Instructions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust/templates/trust/Introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust/templates/trust/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust/templates/trust/Send.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust/templates/trust/SendBack.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust_simple/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust_simple/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust_simple/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust_simple/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust_simple/templates/trust_simple/Instructions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust_simple/templates/trust_simple/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust_simple/templates/trust_simple/Send.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust_simple/templates/trust_simple/SendBack.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust_simple/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/trust_simple/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/ultimatum/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/ultimatum/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/ultimatum/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/ultimatum/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/ultimatum/templates/ultimatum/Accept.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/ultimatum/templates/ultimatum/AcceptStrategy.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/ultimatum/templates/ultimatum/Instructions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/ultimatum/templates/ultimatum/Introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/ultimatum/templates/ultimatum/Offer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/ultimatum/templates/ultimatum/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/ultimatum/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/ultimatum/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/utils.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/static/vickrey_auction/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/static/vickrey_auction/jquery-ui/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/static/vickrey_auction/jquery-ui/images/ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/static/vickrey_auction/jquery-ui/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/static/vickrey_auction/jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/static/vickrey_auction/jquery-ui/images/ui-bg_glass_75_dadada_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/static/vickrey_auction/jquery-ui/images/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/static/vickrey_auction/jquery-ui/images/ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/static/vickrey_auction/jquery-ui/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/static/vickrey_auction/jquery-ui/images/ui-icons_222222_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/static/vickrey_auction/jquery-ui/images/ui-icons_2e83ff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/static/vickrey_auction/jquery-ui/images/ui-icons_454545_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/static/vickrey_auction/jquery-ui/images/ui-icons_888888_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/static/vickrey_auction/jquery-ui/images/ui-icons_cd0a0a_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/static/vickrey_auction/jquery-ui/jquery-ui.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/static/vickrey_auction/jquery-ui/jquery-ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/templates/vickrey_auction/Bid.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/templates/vickrey_auction/Instructions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/templates/vickrey_auction/Introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/templates/vickrey_auction/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/vickrey_auction/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/volunteer_dilemma/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/volunteer_dilemma/_builtin/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/volunteer_dilemma/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/volunteer_dilemma/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/volunteer_dilemma/templates/volunteer_dilemma/Decision.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/volunteer_dilemma/templates/volunteer_dilemma/Instructions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/volunteer_dilemma/templates/volunteer_dilemma/Introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/volunteer_dilemma/templates/volunteer_dilemma/Results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/volunteer_dilemma/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twodecoy/volunteer_dilemma/views.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/survey/models.py" afterPath="$PROJECT_DIR$/survey/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/survey/templates/survey/Results.html" afterPath="$PROJECT_DIR$/survey/templates/survey/Results.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/survey/views.py" afterPath="$PROJECT_DIR$/survey/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -288,28 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2448">
-              <caret line="149" column="35" lean-forward="false" selection-start-line="149" selection-start-column="35" selection-end-line="149" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cog5OUT.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog5OUT.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Cog5OUT.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog5OUT.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -320,8 +29,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/guess_two_thirds/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Results.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/survey/templates/survey/Results.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/survey/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/survey/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+                <element signature="e#468#560#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SecondDecision.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/survey/templates/survey/SecondDecision.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -372,30 +124,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/guess_two_thirds/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#51#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/guess_two_thirds/tests.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#71#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -422,9 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/Results.html" />
-        <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/Red1m.html" />
-        <option value="$PROJECT_DIR$/_templates/global/Test.html" />
         <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/MTask 1.html" />
         <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog1OUT.html" />
         <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/MTask1.html" />
@@ -473,6 +198,9 @@
         <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog5OUT.html" />
         <option value="$PROJECT_DIR$/lemon_market/models.py" />
         <option value="$PROJECT_DIR$/guess_two_thirds/models.py" />
+        <option value="$PROJECT_DIR$/survey/views.py" />
+        <option value="$PROJECT_DIR$/survey/templates/survey/Results.html" />
+        <option value="$PROJECT_DIR$/survey/models.py" />
       </list>
     </option>
   </component>
@@ -514,6 +242,19 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="oTree" type="cbb8eebc:String" user="oTree" />
+              <item name="survey" type="cbb8eebc:String" user="survey" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="oTree" type="cbb8eebc:String" user="oTree" />
+              <item name="survey" type="cbb8eebc:String" user="survey" />
+              <item name="templates" type="cbb8eebc:String" user="templates" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="oTree" type="cbb8eebc:String" user="oTree" />
+              <item name="survey" type="cbb8eebc:String" user="survey" />
+              <item name="templates" type="cbb8eebc:String" user="templates" />
               <item name="survey" type="cbb8eebc:String" user="survey" />
             </path>
           </expand>
@@ -613,7 +354,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21742313" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21742313" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -653,34 +394,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog1IN.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog1IN.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog1OUT.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog2IN.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog2IN.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -945,7 +658,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#51#0" expanded="true" />
+            <element signature="e#0#51#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -955,7 +668,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#71#0" expanded="true" />
+            <element signature="e#0#71#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -965,7 +678,7 @@
         <state relative-caret-position="2448">
           <caret line="149" column="35" lean-forward="false" selection-start-line="149" selection-start-column="35" selection-end-line="149" selection-end-column="35" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -974,14 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog5OUT.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -1020,11 +725,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/guess_two_thirds/models.py">
+    <entry file="file://$PROJECT_DIR$/survey/templates/survey/SecondDecision.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog5OUT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/survey/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/survey/templates/survey/Results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/survey/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+            <element signature="e#468#560#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

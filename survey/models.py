@@ -20,16 +20,17 @@ class Constants(BaseConstants):
     
 
 class Subsession(BaseSubsession):
-    pass
+    def creating_session(self):
+        for p in self.get_players():
+            p.reward_field = random.randint(1, 8)
 
 class Group(BaseGroup):
     pass
 
 
 class Player(BasePlayer):
-    def set_payoffs(self):
-        paying_round = random.randint(1, Constants.num_choices)
-        self.participant.vars['paying_round'] = paying_round
+    reward_field = models.IntegerField()
+    reward_answer = models.CharField()
 
     Menu_1 = models.CharField(
         initial = None,

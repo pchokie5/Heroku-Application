@@ -2,10 +2,14 @@
 {% load staticfiles otree_tags %}
 
 {% block title %}
-    Page title
+    Results
 {% endblock %}
 
 {% block content %}
+    <p>
+    Your payoff is as follows:
+    <span id="playerResults">{{self.player.reward_answer}}</span>
+    </p>
 
     {% next_button %}
 {% endblock %}
