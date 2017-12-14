@@ -139,9 +139,10 @@ SESSION_CONFIGS = [
     },
     {
         'name': 'guess_two_thirds',
-        'display_name': "Guess 2/3 of the Average",
-        'num_demo_participants': 3,
+        'display_name': "CLoadL",
+        'num_demo_participants': 1,
         'app_sequence': ['guess_two_thirds', 'payment_info'],
+        'participant_fee': 3.00,
     },
     {
         'name': 'survey',
@@ -266,11 +267,10 @@ SESSION_CONFIGS = [
     },
     {
         'name': 'lemon_market',
-        'display_name': "Lemon Market Game",
-        'num_demo_participants': 3,
-        'app_sequence': [
-            'lemon_market', 'payment_info'
-        ],
+        'display_name': "CLoadS",
+        'num_demo_participants': 1,
+        'app_sequence': ['lemon_market', 'payment_info'],
+        'participant_fee': 3.00,
     },
     {
         'name': 'battle_of_the_sexes',

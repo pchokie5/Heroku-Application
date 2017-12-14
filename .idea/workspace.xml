@@ -2,11 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7fa37df-a159-40b1-a321-9cba70a2b58c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Amb1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Amb1m.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Amb2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Amb2m.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog1IN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog1OUT.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog2IN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog2OUT.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog3IN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog3OUT.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog4IN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog4OUT.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog5IN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog5OUT.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog6IN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog6OUT.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Demographics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Draws.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/MTask1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/MTask2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/MTask3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/MTask4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/MTask5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/MTask6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Red1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Red1m.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/ResultsCalculation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Amb1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Amb1m.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Amb2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Amb2m.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog1IN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog1OUT.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog2IN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog2OUT.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog3IN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog3OUT.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog4IN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog4OUT.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog5IN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog5OUT.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog6IN.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog6OUT.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Demographics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Draws.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/MTask1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/MTask2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/MTask3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/MTask4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/MTask5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/MTask6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Red1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Red1m.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/ResultsCalculation.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Guess.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Introduction.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lemon_market/templates/lemon_market/AdminReport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lemon_market/templates/lemon_market/FinalResults.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lemon_market/templates/lemon_market/HighChart.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Introduction.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Production.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Purchase.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements_base.txt" afterPath="$PROJECT_DIR$/requirements_base.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guess_two_thirds/models.py" afterPath="$PROJECT_DIR$/guess_two_thirds/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Instructions.html" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Instructions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Results.html" afterPath="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Results.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guess_two_thirds/views.py" afterPath="$PROJECT_DIR$/guess_two_thirds/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lemon_market/models.py" afterPath="$PROJECT_DIR$/lemon_market/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Instructions.html" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Instructions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Results.html" afterPath="$PROJECT_DIR$/lemon_market/templates/lemon_market/Results.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lemon_market/tests.py" afterPath="$PROJECT_DIR$/lemon_market/tests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lemon_market/views.py" afterPath="$PROJECT_DIR$/lemon_market/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.py" afterPath="$PROJECT_DIR$/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/survey/models.py" afterPath="$PROJECT_DIR$/survey/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twodecoy/survey/models.py" afterPath="$PROJECT_DIR$/twodecoy/survey/models.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,8 +94,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="2448">
+              <caret line="149" column="35" lean-forward="false" selection-start-line="149" selection-start-column="35" selection-end-line="149" selection-end-column="35" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -32,53 +103,97 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manage.py">
+      <file leaf-file-name="Cog5OUT.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog5OUT.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utils.py">
+      <file leaf-file-name="Cog5OUT.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog5OUT.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="357">
+              <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="requirements_base.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/requirements_base.txt">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/guess_two_thirds/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/survey/models.py">
+        <entry file="file://$PROJECT_DIR$/lemon_market/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/twodecoy/settings.py">
+      <file leaf-file-name="MTask1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/MTask1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cog1OUT.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog1OUT.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lemon_market/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="501">
+              <caret line="262" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="262" selection-end-column="0" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guess_two_thirds/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guess_two_thirds/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#71#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,6 +213,8 @@
     <findStrings>
       <find>rang</find>
       <find>range</find>
+      <find>subsess</find>
+      <find>cog1</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -108,30 +225,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/my_public_goods/views.py" />
-        <option value="$PROJECT_DIR$/my_public_goods/templates/my_public_goods/Results.html" />
-        <option value="$PROJECT_DIR$/my_public_goods/templates/my_public_goods/Contribute.html" />
-        <option value="$PROJECT_DIR$/my_public_goods/models.py" />
-        <option value="$PROJECT_DIR$/my_public_goods/tests.py" />
-        <option value="$PROJECT_DIR$/my_public_goods/settings.py" />
-        <option value="$PROJECT_DIR$/TwoDecoy/models.py" />
-        <option value="$PROJECT_DIR$/survey/templates/survey/EighthDecision.html" />
-        <option value="$PROJECT_DIR$/survey/templates/survey/FifthDecision.html" />
-        <option value="$PROJECT_DIR$/survey/templates/survey/FirstDecision.html" />
-        <option value="$PROJECT_DIR$/survey/templates/survey/FourthDecision.html" />
-        <option value="$PROJECT_DIR$/survey/templates/survey/SecondDecision.html" />
-        <option value="$PROJECT_DIR$/survey/templates/survey/SeventhDecision.html" />
-        <option value="$PROJECT_DIR$/survey/templates/survey/SixthDecision.html" />
-        <option value="$PROJECT_DIR$/survey/templates/survey/ThankYou.html" />
-        <option value="$PROJECT_DIR$/survey/templates/survey/ThirdDecision.html" />
-        <option value="$PROJECT_DIR$/TwoDecoy/tests.py" />
-        <option value="$PROJECT_DIR$/survey/tests.py" />
-        <option value="$PROJECT_DIR$/survey/views.py" />
-        <option value="$PROJECT_DIR$/survey/_builtin/__init__.py" />
-        <option value="$PROJECT_DIR$/survey/templates/survey/Results.html" />
-        <option value="$PROJECT_DIR$/survey/models.py" />
+        <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/Results.html" />
+        <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/Red1m.html" />
+        <option value="$PROJECT_DIR$/_templates/global/Test.html" />
+        <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/MTask 1.html" />
+        <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog1OUT.html" />
+        <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/MTask1.html" />
+        <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog4OUT.html" />
+        <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog5OUT.html" />
+        <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/MTask2.html" />
+        <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/MTask3.html" />
+        <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/MTask4.html" />
+        <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/MTask5.html" />
+        <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/MTask6.html" />
+        <option value="$PROJECT_DIR$/lemon_market/views.py" />
+        <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog2OUT.html" />
+        <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog3OUT.html" />
+        <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog6OUT.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/views.py" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Amb1.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Amb1m.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Amb2.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Amb2m.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog1IN.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog1OUT.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog2IN.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog2OUT.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog3IN.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog3OUT.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog4IN.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog4OUT.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog5IN.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog6IN.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog6OUT.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Demographics.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Draws.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Instructions.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/MTask1.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/MTask2.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/MTask3.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/MTask4.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/MTask5.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/MTask6.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Red1.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Red1m.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Results.html" />
+        <option value="$PROJECT_DIR$/lemon_market/templates/lemon_market/ResultsCalculation.html" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/ResultsCalculation.html" />
         <option value="$PROJECT_DIR$/settings.py" />
-        <option value="$PROJECT_DIR$/requirements_base.txt" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog5OUT.html" />
+        <option value="$PROJECT_DIR$/lemon_market/models.py" />
+        <option value="$PROJECT_DIR$/guess_two_thirds/models.py" />
       </list>
     </option>
   </component>
@@ -141,7 +285,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-162" />
     <option name="y" value="125" />
     <option name="width" value="1346" />
@@ -163,7 +307,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -174,6 +317,53 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="oTree" type="cbb8eebc:String" user="oTree" />
+              <item name="_templates" type="cbb8eebc:String" user="_templates" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="oTree" type="cbb8eebc:String" user="oTree" />
+              <item name="_templates" type="cbb8eebc:String" user="_templates" />
+              <item name="global" type="cbb8eebc:String" user="global" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="oTree" type="cbb8eebc:String" user="oTree" />
+              <item name="guess_two_thirds" type="cbb8eebc:String" user="guess_two_thirds" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="oTree" type="cbb8eebc:String" user="oTree" />
+              <item name="guess_two_thirds" type="cbb8eebc:String" user="guess_two_thirds" />
+              <item name="templates" type="cbb8eebc:String" user="templates" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="oTree" type="cbb8eebc:String" user="oTree" />
+              <item name="guess_two_thirds" type="cbb8eebc:String" user="guess_two_thirds" />
+              <item name="templates" type="cbb8eebc:String" user="templates" />
+              <item name="guess_two_thirds" type="cbb8eebc:String" user="guess_two_thirds" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="oTree" type="cbb8eebc:String" user="oTree" />
+              <item name="lemon_market" type="cbb8eebc:String" user="lemon_market" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="oTree" type="cbb8eebc:String" user="oTree" />
+              <item name="lemon_market" type="cbb8eebc:String" user="lemon_market" />
+              <item name="templates" type="cbb8eebc:String" user="templates" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="oTree" type="cbb8eebc:String" user="oTree" />
+              <item name="lemon_market" type="cbb8eebc:String" user="lemon_market" />
+              <item name="templates" type="cbb8eebc:String" user="templates" />
+              <item name="lemon_market" type="cbb8eebc:String" user="lemon_market" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="oTree" type="cbb8eebc:String" user="oTree" />
               <item name="survey" type="cbb8eebc:String" user="survey" />
             </path>
             <path>
@@ -193,116 +383,12 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="oTree" type="cbb8eebc:String" user="oTree" />
               <item name="twodecoy" type="cbb8eebc:String" user="twodecoy" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="oTree" type="cbb8eebc:String" user="oTree" />
-              <item name="twodecoy" type="cbb8eebc:String" user="twodecoy" />
-              <item name="survey" type="cbb8eebc:String" user="survey" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="owner" type="cbb8eebc:String" user="owner" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="owner" type="cbb8eebc:String" user="owner" />
-              <item name="AppData" type="cbb8eebc:String" user="AppData" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="owner" type="cbb8eebc:String" user="owner" />
-              <item name="AppData" type="cbb8eebc:String" user="AppData" />
-              <item name="Local" type="cbb8eebc:String" user="Local" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="owner" type="cbb8eebc:String" user="owner" />
-              <item name="AppData" type="cbb8eebc:String" user="AppData" />
-              <item name="Local" type="cbb8eebc:String" user="Local" />
-              <item name="Programs" type="cbb8eebc:String" user="Programs" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="owner" type="cbb8eebc:String" user="owner" />
-              <item name="AppData" type="cbb8eebc:String" user="AppData" />
-              <item name="Local" type="cbb8eebc:String" user="Local" />
-              <item name="Programs" type="cbb8eebc:String" user="Programs" />
-              <item name="Python" type="cbb8eebc:String" user="Python" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="owner" type="cbb8eebc:String" user="owner" />
-              <item name="AppData" type="cbb8eebc:String" user="AppData" />
-              <item name="Local" type="cbb8eebc:String" user="Local" />
-              <item name="Programs" type="cbb8eebc:String" user="Programs" />
-              <item name="Python" type="cbb8eebc:String" user="Python" />
-              <item name="Python36-32" type="cbb8eebc:String" user="Python36-32" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="owner" type="cbb8eebc:String" user="owner" />
-              <item name="AppData" type="cbb8eebc:String" user="AppData" />
-              <item name="Local" type="cbb8eebc:String" user="Local" />
-              <item name="Programs" type="cbb8eebc:String" user="Programs" />
-              <item name="Python" type="cbb8eebc:String" user="Python" />
-              <item name="Python36-32" type="cbb8eebc:String" user="Python36-32" />
-              <item name="Lib" type="cbb8eebc:String" user="Lib" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="owner" type="cbb8eebc:String" user="owner" />
-              <item name="AppData" type="cbb8eebc:String" user="AppData" />
-              <item name="Local" type="cbb8eebc:String" user="Local" />
-              <item name="Programs" type="cbb8eebc:String" user="Programs" />
-              <item name="Python" type="cbb8eebc:String" user="Python" />
-              <item name="Python36-32" type="cbb8eebc:String" user="Python36-32" />
-              <item name="Lib" type="cbb8eebc:String" user="Lib" />
-              <item name="site-packages" type="cbb8eebc:String" user="site-packages" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -393,27 +479,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1296" height="696" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22913617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -431,261 +516,382 @@
           <line>19</line>
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/my_public_goods/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4845">
-          <caret line="290" column="35" lean-forward="false" selection-start-line="290" selection-start-column="35" selection-end-line="290" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guess_two_thirds/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_public_goods/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/traveler_dilemma/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ultimatum/models.py">
+    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog1IN.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TwoDecoy/.idea/Two Decoy Effect Game.iml" />
-    <entry file="file://$PROJECT_DIR$/TwoDecoy/.idea/workspace.xml" />
-    <entry file="file://$PROJECT_DIR$/TwoDecoy/.idea/modules.xml" />
-    <entry file="file://$PROJECT_DIR$/oTree/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oTree/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="114" column="8" lean-forward="false" selection-start-line="114" selection-start-column="7" selection-end-line="114" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/survey/templates/survey/Demographics.html" />
-    <entry file="file://$PROJECT_DIR$/survey/templates/survey/CognitiveReflectionTest.html" />
-    <entry file="file://$PROJECT_DIR$/TwoDecoy/Templates for Two Decoy Effect Game/EighthDecision.html" />
-    <entry file="file://$PROJECT_DIR$/TwoDecoy/Templates for Two Decoy Effect Game/FifthDecision.html" />
-    <entry file="file://$PROJECT_DIR$/TwoDecoy/Templates for Two Decoy Effect Game/FirstDecision.html" />
-    <entry file="file://$PROJECT_DIR$/TwoDecoy/Templates for Two Decoy Effect Game/FourthDecision.html" />
-    <entry file="file://$PROJECT_DIR$/survey/templates/survey/FourthDecision.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TwoDecoy/Templates for Two Decoy Effect Game/Results.html" />
-    <entry file="file://$PROJECT_DIR$/TwoDecoy/Templates for Two Decoy Effect Game/SecondDecision.html" />
-    <entry file="file://$PROJECT_DIR$/survey/templates/survey/SecondDecision.html">
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog1IN.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/survey/templates/survey/SeventhDecision.html">
+    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog1OUT.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TwoDecoy/Templates for Two Decoy Effect Game/SeventhDecision.html" />
-    <entry file="file://$PROJECT_DIR$/TwoDecoy/Templates for Two Decoy Effect Game/SixthDecision.html" />
-    <entry file="file://$PROJECT_DIR$/TwoDecoy/Templates for Two Decoy Effect Game/ThankYou.html" />
-    <entry file="file://$PROJECT_DIR$/TwoDecoy/Templates for Two Decoy Effect Game/ThirdDecision.html" />
-    <entry file="file://$PROJECT_DIR$/survey/templates/survey/ThankYou.html">
+    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog2IN.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/survey/templates/survey/SixthDecision.html">
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog2IN.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state relative-caret-position="289">
+          <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/survey/templates/survey/ThirdDecision.html">
+    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog2OUT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog2OUT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog3IN.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog3IN.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog3OUT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog3OUT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog4IN.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog4IN.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog4OUT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog4OUT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog5IN.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog5IN.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog6IN.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog6IN.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog6OUT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog6OUT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Demographics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Demographics.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TwoDecoy/models.py" />
-    <entry file="file://$PROJECT_DIR$/TwoDecoy/tests.py" />
-    <entry file="file://$PROJECT_DIR$/TwoDecoy/views.py" />
-    <entry file="file://$PROJECT_DIR$/TwoDecoy/_builtin/__init__.py" />
-    <entry file="file://$USER_HOME$/Dropbox/Two Decoy Effect Game/Templates for Two Decoy Effect Game/Results.html">
+    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Draws.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="14" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Dropbox/Two Decoy Effect Game/models.py">
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Draws.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="493">
+          <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/survey/templates/survey/Results.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/survey/_builtin/__init__.py">
+    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Instructions.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/survey/__init__.py">
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Instructions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/MTask1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/survey/templates/survey/FifthDecision.html">
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/MTask2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/survey/templates/survey/FirstDecision.html">
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/MTask4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/otree/api.pyi">
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/MTask5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4828">
-          <caret line="285" column="4" lean-forward="false" selection-start-line="285" selection-start-column="4" selection-end-line="285" selection-end-column="4" />
+        <state relative-caret-position="68">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/otree/views/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/survey/migrations/__init__.py">
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/MTask3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/survey/templates/survey/EighthDecision.html">
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/MTask6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Red1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Red1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Red1m.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Red1m.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="14" lean-forward="false" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/ResultsCalculation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/ResultsCalculation.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/survey/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/survey/tests.py">
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/survey/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twodecoy/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#71#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="2448">
+          <caret line="149" column="35" lean-forward="false" selection-start-line="149" selection-start-column="35" selection-end-line="149" selection-end-column="35" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
+    <entry file="file://$PROJECT_DIR$/lemon_market/templates/lemon_market/Cog5OUT.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utils.py">
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog5OUT.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="357">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements_base.txt">
+    <entry file="file://$PROJECT_DIR$/lemon_market/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="51">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/MTask1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/templates/guess_two_thirds/Cog1OUT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lemon_market/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="262" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="262" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guess_two_thirds/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

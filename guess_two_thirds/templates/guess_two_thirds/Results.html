@@ -6,36 +6,33 @@
 {% endblock %}
 
 {% block content %}
+    Hurray! Results! <br>
 
-    <p>Here were the numbers guessed:</p>
+    Role is: {{ player.role }} <br>
+    cog1 is: {{ player.cog1 }} <br>
+    cog1DEF is: {{ Constants.cog1DEF }} <br>
+    cog1right is: {{ player.cog1right }} <br>
+    amb1A_chosen is: {{ player.amb1A_chosen }} <br>
+    amb1B_chosen is: {{ player.amb1B_chosen }} <br>
+    amb1A_WIN is: {{ group.amb1A_WIN }} <br>
+    amb1B_WIN is: {{ group.amb1B_WIN }} <br>
+    cog2 is: {{ player.cog2 }} <br>
+    cog2DEF is: {{ Constants.cog2DEF }} <br>
+    cog2right is: {{ player.cog2right }} <br>
+    amb2A_chosen is: {{ player.amb2A_chosen }} <br>
+    amb2B_chosen is: {{ player.amb2B_chosen }} <br>
+    amb2A_WIN is: {{ group.amb2A_WIN }} <br>
+    amb2B_WIN is: {{ group.amb2B_WIN }} <br>
+    cog3 is: {{ player.cog3 }} <br>
+    cog3DEF is: {{ Constants.cog3DEF }} <br>
+    cog3right is: {{ player.cog3right }} <br>
+    red1A_chosen is: {{ player.red1A_chosen }} <br>
+    red1B_chosen is: {{ player.red1B_chosen }} <br>
+    red1A_WIN is: {{ group.red1A_WIN }} <br>
+    red1B_WIN is: {{ group.red1B_WIN }} <br>
+    Payout is: {{ player.payout }} <br>
+    Payoff is: {{ player.payoff }} <br>
 
-    <p>
-        {{ sorted_guesses }}
-    </p>
-
-    <p>
-        Two-thirds of the average of these numbers is {{ group.two_thirds_avg }};
-        the closest guess was {{ group.best_guess }}.
-    </p>
-
-    <p>Your guess was {{ player.guess }}.</p>
-
-    <p>
-        {% if player.is_winner %}
-            {% if group.num_winners > 1 %}
-                Therefore, you are one of the {{ group.num_winners }} winners
-                who tied for the best guess.
-            {% else %}
-                Therefore, you win!
-            {% endif %}
-        {% else %}
-            Therefore, you did not win.
-        {% endif %}
-    Your payoff is {{ player.payoff }}.
-    </p>
-
+    {{ form.errors }}
     {% next_button %}
-
-    {% include Constants.instructions_template %}
-
 {% endblock %}

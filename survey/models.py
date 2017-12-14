@@ -1,9 +1,10 @@
+
 from otree.api import (
     models, widgets, BaseConstants, BaseSubsession, BaseGroup, BasePlayer,
     Currency as c, currency_range
 )
 
-
+import random
 author = 'Peter Coiley'
 
 doc = """
@@ -15,18 +16,20 @@ class Constants(BaseConstants):
     name_in_url = 'survey_two_decoy'
     players_per_group = None
     num_rounds = 1
+    num_choices = 8
     
 
 class Subsession(BaseSubsession):
     pass
-
 
 class Group(BaseGroup):
     pass
 
 
 class Player(BasePlayer):
-
+    def set_payoffs(self):
+        paying_round = random.randint(1, Constants.num_choices)
+        self.participant.vars['paying_round'] = paying_round
 
     Menu_1 = models.CharField(
         initial = None,
@@ -88,7 +91,7 @@ class Player(BasePlayer):
         widget = widgets.RadioSelect()
     )
     Menu_8 = models.CharField(
-        initial=None,
+        initial= None,
         choices= ['4 dollars, 6 godiva chocolates',
                   '6 dollars, 3 godiva chocolates',
                   '4 dollars, 3 godiva chocolates'],

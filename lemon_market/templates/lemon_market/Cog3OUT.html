@@ -1,0 +1,22 @@
+{% extends "global/Page.html" %}
+{% load staticfiles otree_tags %}
+
+{% block title %}
+    Memory Task 3
+{% endblock %}
+
+{% block content %}
+
+  <div class="number well well-lg"><span class="badge badge-warning"><h1>{{ Constants.cog3DEF}}</h1></span></div>
+    {% next_button %}
+
+{% endblock %}
+{% block scripts %}
+<script>
+$(document).ready(function() {
+  setTimeout(function() {
+    $("div.number").hide("slow");
+  }, 3000);
+});
+</script>
+{% endblock %}
