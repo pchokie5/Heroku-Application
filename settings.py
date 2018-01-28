@@ -95,12 +95,12 @@ ROOM_DEFAULTS = {}
 
 ROOMS = [
     {
-        'name': 'live_demo',
-        'display_name': 'Room for live demo (no participant labels)',
+        'name': 'CLAL',
+        'display_name': 'CLAL',
     },
     {
-        'name': 'Survey',
-        'display_name': 'Survey',
+        'name': 'CLAS',
+        'display_name': 'CLAS',
     },
 ]
 
