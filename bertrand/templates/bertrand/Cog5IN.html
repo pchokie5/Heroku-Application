@@ -1,0 +1,18 @@
+{% extends "global/Page.html" %}
+{% load staticfiles otree_tags %}
+
+{% block title %}
+    Memory Task 5 Recall Page
+{% endblock %}
+
+{% block content %}
+
+	<p>Please enter the sequence of numbers that you memorized in Memory Task 5. If you correctly enter the sequence, you will earn {{ Constants.mpayoff }}. You only have 1 try to enter the number.</p>
+
+    {% formfield player.cog5 %}
+
+
+
+    {% next_button %}
+
+{% endblock %}

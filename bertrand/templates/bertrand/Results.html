@@ -1,21 +1,40 @@
 {% extends "global/Page.html" %}
-{% load otree_tags %}
-{% block title %}Results{% endblock %}
-{% block content %}
-<table class=table style='width: auto'>
-    {% for row in table %}
-    <tr>
-        {% for cell in row %}
-        {% if forloop.counter0 %}
-        <th>{{cell}}</th>
-        {% else %}
-        <td>{{cell}}</td>
-        {% endif %}
-        {% endfor %}
-    </tr>
-    {% endfor %}
-</table>
+{% load staticfiles otree_tags %}
 
-<p>{% next_button %}</p>
-{% include Constants.instructions_template %}
+{% block title %}
+    Results
 {% endblock %}
+
+{% block content %}
+    Hurray! Results! <br>
+
+    Role is: {{ player.role }} <br>
+    cog1 is: {{ player.cog1 }} <br>
+    cog1DEF is: {{ Constants.cog1DEF }} <br>
+    cog1right is: {{ player.cog1right }} <br>
+    amb1A_chosen is: {{ player.amb1A_chosen }} <br>
+    amb1B_chosen is: {{ player.amb1B_chosen }} <br>
+    amb1A_WIN is: {{ group.amb1A_WIN }} <br>
+    amb1B_WIN is: {{ group.amb1B_WIN }} <br>
+    cog2 is: {{ player.cog2 }} <br>
+    cog2DEF is: {{ Constants.cog2DEF }} <br>
+    cog2right is: {{ player.cog2right }} <br>
+    amb2A_chosen is: {{ player.amb2A_chosen }} <br>
+    amb2B_chosen is: {{ player.amb2B_chosen }} <br>
+    amb2A_WIN is: {{ group.amb2A_WIN }} <br>
+    amb2B_WIN is: {{ group.amb2B_WIN }} <br>
+    cog3 is: {{ player.cog3 }} <br>
+    cog3DEF is: {{ Constants.cog3DEF }} <br>
+    cog3right is: {{ player.cog3right }} <br>
+    red1A_chosen is: {{ player.red1A_chosen }} <br>
+    red1B_chosen is: {{ player.red1B_chosen }} <br>
+    red1A_WIN is: {{ group.red1A_WIN }} <br>
+    red1B_WIN is: {{ group.red1B_WIN }} <br>
+    Payout is: {{ player.payout }} <br>
+    Payoff is: {{ player.payoff }} <br>
+
+    {{ form.errors }}
+    {% next_button %}
+{% endblock %}
+
+

@@ -1,0 +1,30 @@
+{% extends "global/Page.html" %}
+{% load staticfiles otree_tags %}
+
+{% block title %}
+    Choice 1
+{% endblock %}
+
+{% block content %}
+
+    {% formfield group.amb1A_WIN %}
+    {% formfield group.amb1B_WIN %}
+
+    {% formfield group.amb2A_WIN %}
+    {% formfield group.amb2B_WIN %}
+
+    {% formfield group.red1A_WIN %}
+    {% formfield group.red1B_WIN %}
+
+    {% formfield group.amb1mA_WIN %}
+    {% formfield group.amb1mB_WIN %}
+
+    {% formfield group.amb2mA_WIN %}
+    {% formfield group.amb2mB_WIN %}
+
+    {% formfield group.red1mA_WIN %}
+    {% formfield group.red1mB_WIN %}
+
+    {% next_button %}
+
+{% endblock %}

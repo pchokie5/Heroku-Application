@@ -1,0 +1,25 @@
+{% extends "global/Page.html" %}
+{% load staticfiles otree_tags %}
+
+{% block title %}
+    Choice 6
+{% endblock %}
+
+{% block content %}
+
+<p>You have to choose between the following options. There is a bag filled with 25 black and 75 white marbles. One random draw with replacement is conducted.</p> <br>
+<b>Option A:</b> <br>
+<p>You will be paid <b>{{ Constants.Dcpayoff }}</b> if a <b>black</b> marble is drawn and <b>{{ Constants.zeropayoff }}</b> if a <b>white</b> marble is drawn.
+In addition, you will be paid {{ Constants.markuppayoff }} no matter what color is drawn.<p/> <br>
+<p>There is another bag that is filled with 50 black and 50 white marbles. Two random draws with replacement are conducted.</p>
+ <br>
+<b>Option B:</b> <br>
+<p>You will be paid <b>{{ Constants.Dcpayoff }}</b> if a <b>black</b> marble is drawn twice and <b>{{ Constants.zeropayoff }}</b>  if a <b>white</b> marble is drawn at least once.</p> <br>
+
+    {% formfield player.reduction1m %}
+
+
+
+    {% next_button %}
+
+{% endblock %}

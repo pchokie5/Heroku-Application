@@ -6,38 +6,35 @@
 {% endblock %}
 
 {% block content %}
+    Hurray! Results! <br>
 
-    <p>
-        {% if player.is_winner %}
-            You won the auction!
-            {% if is_greedy %}
-                However, your bid amount was higher than the actual value of the item. Your payoff is therefore zero.
-            {% elif player.payoff == 0 %}
-                Your payoff, however, is zero.
-            {% endif %}
-        {% else %}
-            You did not win the auction.
-        {% endif %}
-    </p>
+    Role is: {{ player.role }} <br>
+    cog1 is: {{ player.cog1 }} <br>
+    cog1DEF is: {{ Constants.cog1DEF }} <br>
+    cog1right is: {{ player.cog1right }} <br>
+    amb1A_chosen is: {{ player.amb1A_chosen }} <br>
+    amb1B_chosen is: {{ player.amb1B_chosen }} <br>
+    amb1A_WIN is: {{ group.amb1A_WIN }} <br>
+    amb1B_WIN is: {{ group.amb1B_WIN }} <br>
+    cog2 is: {{ player.cog2 }} <br>
+    cog2DEF is: {{ Constants.cog2DEF }} <br>
+    cog2right is: {{ player.cog2right }} <br>
+    amb2A_chosen is: {{ player.amb2A_chosen }} <br>
+    amb2B_chosen is: {{ player.amb2B_chosen }} <br>
+    amb2A_WIN is: {{ group.amb2A_WIN }} <br>
+    amb2B_WIN is: {{ group.amb2B_WIN }} <br>
+    cog3 is: {{ player.cog3 }} <br>
+    cog3DEF is: {{ Constants.cog3DEF }} <br>
+    cog3right is: {{ player.cog3right }} <br>
+    red1A_chosen is: {{ player.red1A_chosen }} <br>
+    red1B_chosen is: {{ player.red1B_chosen }} <br>
+    red1A_WIN is: {{ group.red1A_WIN }} <br>
+    red1B_WIN is: {{ group.red1B_WIN }} <br>
+    Payout is: {{ player.payout }} <br>
+    Payoff is: {{ player.payoff }} <br>
 
-    <table class="table" style="width:400px">
-
-        <tr>
-            <th>Your bid</th>
-            <th>Winning bid</th>
-            <th>Actual value</th>
-            <th>Your payoff</th>
-        </tr>
-
-    <tr>
-        <td>{{ player.bid_amount }}</td>
-        <td>{{ group.highest_bid }}</td>
-        <td>{{ group.item_value }}</td>
-        <td>{{ player.payoff }}</td>
-    </tr>
-
-    </table>
-
+    {{ form.errors }}
     {% next_button %}
-
 {% endblock %}
+
+

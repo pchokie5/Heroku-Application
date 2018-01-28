@@ -132,19 +132,6 @@ SESSION_CONFIG_DEFAULTS = {
 
 SESSION_CONFIGS = [
     {
-        'name': 'my_public_goods',
-        'display_name': "My Public Goods",
-        'num_demo_participants': 3,
-        'app_sequence': ['my_public_goods', 'survey', 'payment_info'],
-    },
-    {
-        'name': 'guess_two_thirds',
-        'display_name': "CLoadL",
-        'num_demo_participants': 1,
-        'app_sequence': ['guess_two_thirds', 'payment_info'],
-        'participant_fee': 3.00,
-    },
-    {
         'name': 'survey',
         'display_name': "Two Decoy",
         'num_demo_participants': 1,
@@ -236,9 +223,9 @@ SESSION_CONFIGS = [
     },
     {
         'name': 'common_value_auction',
-        'display_name': "Common Value Auction",
-        'num_demo_participants': 3,
-        'app_sequence': ['common_value_auction', 'payment_info'],
+        'display_name': "CLAL",
+        'num_demo_participants': 1,
+        'app_sequence': ['common_value_auction'],
     },
     {
         'name': 'stackelberg',
@@ -251,10 +238,10 @@ SESSION_CONFIGS = [
     },
     {
         'name': 'bertrand',
-        'display_name': "Bertrand Competition",
-        'num_demo_participants': 2,
+        'display_name': "CLAS",
+        'num_demo_participants': 1,
         'app_sequence': [
-            'bertrand', 'payment_info'
+            'bertrand'
         ],
     },
     {
@@ -264,13 +251,6 @@ SESSION_CONFIGS = [
         'app_sequence': [
             'real_effort',
         ],
-    },
-    {
-        'name': 'lemon_market',
-        'display_name': "CLoadS",
-        'num_demo_participants': 1,
-        'app_sequence': ['lemon_market', 'payment_info'],
-        'participant_fee': 3.00,
     },
     {
         'name': 'battle_of_the_sexes',
