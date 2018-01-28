@@ -1,5 +1,5 @@
 {% extends "global/Page.html" %}
-{% load staticfiles otree_tags %}
+{% load staticfiles otree %}
 
 {% block title %}
     Contribute
@@ -15,7 +15,7 @@
     </p>
 
 
-    {% formfield player.contribution with label="How much will you contribute?" %}
+    {% formfield player.contribution label="How much will you contribute?" %}
 
     {% next_button %}
 

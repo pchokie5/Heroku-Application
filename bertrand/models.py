@@ -34,131 +34,131 @@ class Subsession(BaseSubsession):
 
 class Group(BaseGroup):
     amb1A_WIN = models.PositiveIntegerField(
-        widget=widgets.SliderInput(),
+        widget=widgets.Slider(),
         verbose_name="Did the draw for amb1A win?",
         min=0,
         max=1)
     amb1B_WIN = models.PositiveIntegerField(
-        widget=widgets.SliderInput(),
+        widget=widgets.Slider(),
         verbose_name="Did the draw for amb1B win?",
         min=0,
         max=1)
     amb2A_WIN = models.PositiveIntegerField(
-        widget=widgets.SliderInput(),
+        widget=widgets.Slider(),
         verbose_name="Did the draw for amb2A win?",
         min=0,
         max=1)
     amb2B_WIN = models.PositiveIntegerField(
-        widget=widgets.SliderInput(),
+        widget=widgets.Slider(),
         verbose_name="Did the draw for amb2B win?",
         min=0,
         max=1)
     red1A_WIN = models.PositiveIntegerField(
-        widget=widgets.SliderInput(),
+        widget=widgets.Slider(),
         verbose_name="Did the draw for red1A win?",
         min=0,
         max=1)
     red1B_WIN = models.PositiveIntegerField(
-        widget=widgets.SliderInput(),
+        widget=widgets.Slider(),
         verbose_name="Did the draw for red1B win?",
         min=0,
         max=1)
     amb1mA_WIN = models.PositiveIntegerField(
-        widget=widgets.SliderInput(),
+        widget=widgets.Slider(),
         verbose_name="Did the draw for amb1mA win?",
         min=0,
         max=1)
     amb1mB_WIN = models.PositiveIntegerField(
-        widget=widgets.SliderInput(),
+        widget=widgets.Slider(),
         verbose_name="Did the draw for amb1mB win?",
         min=0,
         max=1)
     amb2mA_WIN = models.PositiveIntegerField(
-        widget=widgets.SliderInput(),
+        widget=widgets.Slider(),
         verbose_name="Did the draw for amb2mA win?",
         min=0,
         max=1)
     amb2mB_WIN = models.PositiveIntegerField(
-        widget=widgets.SliderInput(),
+        widget=widgets.Slider(),
         verbose_name="Did the draw for amb2mB win?",
         min=0,
         max=1)
     red1mA_WIN = models.PositiveIntegerField(
-        widget=widgets.SliderInput(),
+        widget=widgets.Slider(),
         verbose_name="Did the draw for red1mA win?",
         min=0,
         max=1)
     red1mB_WIN = models.PositiveIntegerField(
-        widget=widgets.SliderInput(),
+        widget=widgets.Slider(),
         verbose_name="Did the draw for red1mB win?",
         min=0,
         max=1)
 
 
 class Player(BasePlayer):
-    ambiguity1 = models.CharField(
+    ambiguity1 = models.StringField(
         choices=["A", "B"],
         # blank=True,
         widget=widgets.RadioSelect(),
         verbose_name="Which option do you choose?",
         doc="ambiguity 1 A or B"
     )
-    ambiguity2 = models.CharField(
+    ambiguity2 = models.StringField(
         choices=["A", "B"],
         # blank=True,
         widget=widgets.RadioSelect(),
         verbose_name="Which option do you choose?",
         doc="ambiguity 2 A or B"
     )
-    reduction1 = models.CharField(
+    reduction1 = models.StringField(
         choices=["A", "B"],
         # blank=True,
         widget=widgets.RadioSelect(),
         verbose_name="Which option do you choose?",
         doc="reduction1 1 A or B"
     )
-    ambiguity1m = models.CharField(
+    ambiguity1m = models.StringField(
         choices=["A", "B"],
         # blank=True,
         widget=widgets.RadioSelect(),
         verbose_name="Which option do you choose?",
         doc="ambiguity 1m A or B"
     )
-    ambiguity2m = models.CharField(
+    ambiguity2m = models.StringField(
         choices=["A", "B"],
         # blank=True,
         widget=widgets.RadioSelect(),
         verbose_name="Which option do you choose?",
         doc="ambiguity 2m A or B"
     )
-    reduction1m = models.CharField(
+    reduction1m = models.StringField(
         choices=["A", "B"],
         # blank=True,
         widget=widgets.RadioSelect(),
         verbose_name="Which option do you choose?",
         doc="reduction 1m A or B"
     )
-    cog1 = models.CharField(
+    cog1 = models.StringField(
         verbose_name="What was the sequence you had to remember?",
         doc="cognitive entry 1"
     )
-    cog2 = models.CharField(
+    cog2 = models.StringField(
         verbose_name="What was the sequence you had to remember?",
         doc="cognitive entry 2"
     )
-    cog3 = models.CharField(
+    cog3 = models.StringField(
         verbose_name="What was the sequence you had to remember?",
         doc="cognitive entry 3"
     )
-    cog4 = models.CharField(
+    cog4 = models.StringField(
         verbose_name="What was the sequence you had to remember?",
         doc="cognitive entry 4"
     )
-    cog5 = models.CharField(
+    cog5 = models.StringField(
         verbose_name="What was the sequence you had to remember?",
         doc="cognitive entry 5"
     )
-    cog6 = models.CharField(
+    cog6 = models.StringField(
         verbose_name="What was the sequence you had to remember?",
         doc="cognitive entry 6"
     )

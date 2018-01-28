@@ -30,9 +30,9 @@ class Group(BaseGroup):
 
 class Player(BasePlayer):
     reward_field = models.IntegerField()
-    reward_answer = models.CharField()
+    reward_answer = models.StringField()
 
-    Menu_1 = models.CharField(
+    Menu_1 = models.StringField(
         initial = None,
         choices = ['4 dollars, 6 godiva chocolates',
                 '6 dollars, 3 godiva chocolates'],
@@ -40,7 +40,7 @@ class Player(BasePlayer):
         widget= widgets.RadioSelect()
     )
 
-    Menu_2 = models.CharField(
+    Menu_2 = models.StringField(
         initial = None,
         choices = ['6 dollars, 3 godiva chocolates',
                    '4 dollars, 6 godiva chocolates',
@@ -48,7 +48,7 @@ class Player(BasePlayer):
         verbose_name= '2nd Round',
         widget = widgets.RadioSelect()
     )
-    Menu_3 = models.CharField(
+    Menu_3 = models.StringField(
         initial = None,
         choices = ['4 dollars, 6 godiva chocolates',
                    '6 dollars, 3 godiva chocolates',
@@ -57,7 +57,7 @@ class Player(BasePlayer):
         widget = widgets.RadioSelect()
 
     )
-    Menu_4 = models.CharField(
+    Menu_4 = models.StringField(
         initial = None,
         choices = ['4 dollars, 6 godiva chocolates',
                    '0 dollars, 10 godiva chocolates',
@@ -65,7 +65,7 @@ class Player(BasePlayer):
         verbose_name= '4th Round',
         widget = widgets.RadioSelect
     )
-    Menu_5 = models.CharField(
+    Menu_5 = models.StringField(
         initial = None,
         choices = ['4 dollars, 6 godiva chocolates',
                    '6 dollars, 3 godiva chocolates',
@@ -73,7 +73,7 @@ class Player(BasePlayer):
         verbose_name= '5th Round',
         widget = widgets.RadioSelect
     )
-    Menu_6 = models.CharField(
+    Menu_6 = models.StringField(
         initial= None,
         choices = ['4 dollars, 6 godiva chocolates',
                    '4 dollars, 5 godiva chocolates',
@@ -82,7 +82,7 @@ class Player(BasePlayer):
         verbose_name = '6th Round',
         widget = widgets.RadioSelect()
     )
-    Menu_7 = models.CharField(
+    Menu_7 = models.StringField(
         initial = None,
         choices = ['4 dollars, 6 godiva chocolates',
                    '0 dollars, 10 godiva chocolates',
@@ -91,7 +91,7 @@ class Player(BasePlayer):
         verbose_name = '7th Round',
         widget = widgets.RadioSelect()
     )
-    Menu_8 = models.CharField(
+    Menu_8 = models.StringField(
         initial= None,
         choices= ['4 dollars, 6 godiva chocolates',
                   '6 dollars, 3 godiva chocolates',
